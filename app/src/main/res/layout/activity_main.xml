@@ -38,7 +38,7 @@
         android:layout_height="44dp"
         android:gravity="center"
 
-        android:text="Hemllo Vmro!!"
+        android:text="Hemllo Vmro!! Kuch nhi bs walmk krne nimkla hoon vmro."
         android:textColor="@color/white"
         android:textSize="24sp"
         app:layout_constraintBottom_toTopOf="@+id/imageView"
